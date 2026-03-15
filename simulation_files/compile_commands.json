@@ -1,0 +1,85 @@
+[{
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/dlma_save_config.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/dlma_save_config.cpp -o /home/samarth/codes/postp_module/simulation_files/src/dlma_save_config.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/system_factory.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/system_factory.cpp -o /home/samarth/codes/postp_module/simulation_files/src/system_factory.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/dlma_system_onlattice.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/dlma_system_onlattice.cpp -o /home/samarth/codes/postp_module/simulation_files/src/dlma_system_onlattice.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/normal_bind.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/normal_bind.cpp -o /home/samarth/codes/postp_module/simulation_files/src/normal_bind.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/cluster.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/cluster.cpp -o /home/samarth/codes/postp_module/simulation_files/src/cluster.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/target/simulation.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/target/simulation.cpp -o /home/samarth/codes/postp_module/simulation_files/target/simulation.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/brownian_movement_offlattice.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/brownian_movement_offlattice.cpp -o /home/samarth/codes/postp_module/simulation_files/src/brownian_movement_offlattice.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/dlma_system.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/dlma_system.cpp -o /home/samarth/codes/postp_module/simulation_files/src/dlma_system.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/periodic.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/periodic.cpp -o /home/samarth/codes/postp_module/simulation_files/src/periodic.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src_test/cluster.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src_test/cluster.cpp -o /home/samarth/codes/postp_module/simulation_files/src_test/cluster.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/check_aggregation.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/check_aggregation.cpp -o /home/samarth/codes/postp_module/simulation_files/src/check_aggregation.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/iterator_factory.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/iterator_factory.cpp -o /home/samarth/codes/postp_module/simulation_files/src/iterator_factory.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/on_lattice.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/on_lattice.cpp -o /home/samarth/codes/postp_module/simulation_files/src/on_lattice.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/brownian_movement.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/brownian_movement.cpp -o /home/samarth/codes/postp_module/simulation_files/src/brownian_movement.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/particle.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/particle.cpp -o /home/samarth/codes/postp_module/simulation_files/src/particle.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/off_lattice.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/off_lattice.cpp -o /home/samarth/codes/postp_module/simulation_files/src/off_lattice.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/check_aggregation_offlattice.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/check_aggregation_offlattice.cpp -o /home/samarth/codes/postp_module/simulation_files/src/check_aggregation_offlattice.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/mass_aggregation_condition.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/mass_aggregation_condition.cpp -o /home/samarth/codes/postp_module/simulation_files/src/mass_aggregation_condition.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/dlma_system_offlattice.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/dlma_system_offlattice.cpp -o /home/samarth/codes/postp_module/simulation_files/src/dlma_system_offlattice.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/dlma_iterator.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/dlma_iterator.cpp -o /home/samarth/codes/postp_module/simulation_files/src/dlma_iterator.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/samarth/codes/postp_module/simulation_files/src/split_string.cpp",
+  "directory": "/home/samarth/codes/postp_module/simulation_files",
+  "command": "clang++ -c /home/samarth/codes/postp_module/simulation_files/src/split_string.cpp -o /home/samarth/codes/postp_module/simulation_files/src/split_string.cpp.o  -I. -I.  -g -Wall"
+ }]

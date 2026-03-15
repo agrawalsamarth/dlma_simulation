@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/samarth/codes/postp_module/simulation_files/simulation_files.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/samarth/codes/postp_module/simulation_files/simulation_files.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/samarth/codes/postp_module/simulation_files/src/on_lattice.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>

@@ -1,0 +1,17 @@
+system=dlma
+lattice=0
+agg_dist_tolerance=0.0
+aggregation_type=normal
+aggregation_condition=mass
+bind=normal
+movement=brownian
+D=3
+N=4096
+N_s=4096
+x0_bc=periodic
+x1_bc=periodic
+x2_bc=periodic
+phi=0.2
+alpha=0.5
+seedMass=1000000000000.0
+rng_seed=7
