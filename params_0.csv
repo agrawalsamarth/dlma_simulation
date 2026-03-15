@@ -1,5 +1,5 @@
 system=dlma
-lattice=0
+lattice=1
 agg_dist_tolerance=0.0
 aggregation_type=normal
 aggregation_condition=mass
